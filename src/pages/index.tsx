@@ -35,7 +35,7 @@ class HomeComponent extends React.Component<WithTranslation> {
 
                             </div>
                             <div className='text-xl md:text-5xl mb-2 block sm:hidden'>
-                                Ichrin's Anonymous Chat Room
+                                The Anonymous Chat Room of Ichrin
                             </div>
                         </div>
                     ) : (
